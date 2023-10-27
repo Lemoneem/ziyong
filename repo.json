@@ -6,7 +6,7 @@
         "InternalName": "Brio",
         "AssemblyVersion": "0.1.8.6",
         "TestingAssemblyVersion": "0.1.8.6",
-        "RepoUrl": "https://github.com/AsgardXIV/Brio",
+        "RepoUrl": "https://github.com/AsgardXIV/Brio/releases/tag/v0.1.8.6",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
         "DownloadLinkInstall": "https://github.com/AsgardXIV/Brio/releases/tag/v0.1.8.6/Brio.zip",
